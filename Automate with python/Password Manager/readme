@@ -4,3 +4,26 @@ Key Points:
 Threat Analysis and Mitigation:
 By requiring passwords and usernames of at least 8 characters, the script enforces a basic level of security.
 It stores credentials securely (to some extent), helping users mitigate the risk of losing access to accounts or creating overly simplistic credentials.
+
+Features
+Add Credentials:
+
+Prompts the user to input a URL/resource name, a username, and a password.
+Enforces a minimum length of 8 characters for both username and password.
+Stores the credentials in a dictionary (credentials) during runtime.
+Appends the credentials to a file (credentials.txt) for persistent storage.
+View Stored Credentials:
+
+Reads and displays all stored credentials from the credentials.txt file.
+Ensures that previously added credentials are accessible even after restarting the script.
+Exit Option:
+
+Allows the user to exit the application.
+
+Limitations
+No Encryption:
+The credentials are stored in plain text in credentials.txt, making them vulnerable to unauthorized access.
+Basic Validation:
+Only enforces a minimum length for usernames and passwords; no other security checks are implemented.
+Manual Retrieval:
+Credentials must be retrieved manually by reading the file or using the script.
