@@ -11,7 +11,7 @@ Welcome to my Cybersecurity Portfolio! This repository showcases my technical sk
 
 ## 👨‍💻 About Me
 
-I am an aspiring cybersecurity professional with a foundational knowledge in IT security. I hold a CompTIA Security+ certification and am continually expanding my expertise through practical projects and ongoing education. This portfolio reflects my commitment and journey toward my cyberseucirt career
+I am an aspiring cybersecurity professional with a foundational knowledge in IT security. I hold a CompTIA Security+ certification and I am continually expanding my expertise through practical projects and ongoing education. This portfolio reflects my commitment and journey toward my cyberseucirt career
 
 ---
 
