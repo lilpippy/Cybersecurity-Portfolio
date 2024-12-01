@@ -1,6 +1,6 @@
 Password manager script purpose is to improve credential management and mitigate risks associated with weak or poorly managed passwords.
 
-Key Points:
+# Key Points:
 Threat Analysis and Mitigation:
 By requiring passwords and usernames of at least 8 characters, the script enforces a basic level of security.
 It stores credentials securely (to some extent), helping users mitigate the risk of losing access to accounts or creating overly simplistic credentials.
